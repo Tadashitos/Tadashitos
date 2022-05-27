@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tadashitos
-- 👀 I’m interested in learn some new languages and discover new interests
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP and MYSQL
+- 👀 I’m interested in learn some new languages, make new projects and discover new interests
+- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT, ANGULAR, PHP and MYSQL
 - 💞️ I’m looking to collaborate on whatever you all need. But most of all, I want to keep learning more and more.
 - 📫 Find me on: twitter/tadashitos_ 
 
