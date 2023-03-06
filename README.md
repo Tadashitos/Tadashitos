@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tadashitos
 - 👀 I’m interested in learn some new languages, make new projects, resolve problems and discover new interests
-- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT, JQUERY, ANGULAR, VUEJS, PHP, LARAVEL and MYSQL
+- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT, JQUERY, ANGULAR, VUEJS, REACT, GRAPHQL, PHP, LARAVEL and MYSQL
 - 💞️ I’m looking to collaborate on whatever you all need. But most of all, I want to keep learning more and more.
 - Here some screenshots of some projects I did:
 Pokedex (HTML, CSS, BOOTSTRAP, JAVASCRIPT, VUE AND JSON-SERVER)
